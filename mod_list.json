@@ -1,6 +1,5 @@
-{
-  "mods": [
-    {
+[
+  {
       "name": "test.jar",
       "url":"https//test.com",
       "hash": "123456789"
@@ -25,6 +24,4 @@
       "url":"https//test2.com",
       "hash": "123456789_2"
     }
-
-  ]
-}
+]  
